@@ -31,7 +31,9 @@ Ensure `structure_pie.png` is in the same directory as the `.tex` file.
 
 ## Author
 
-Mizuho Watanabe
+Mizuho Watanabe.
+im not professional.i truly believe to hope that this message is sent to hearted man.
+なかきよの とおのねふりの みなめさめ なみのりふねの おとのよきかな
 
 ## License
 
