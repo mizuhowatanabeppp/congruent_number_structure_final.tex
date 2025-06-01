@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Structure-Driven Theory of Congruent Numbers</title>
+  
+  <!-- Google Analytics tag -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-GWQBP5DNN1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-GWQBP5DNN1');
+  </script>
+</head>
+<body>
+  <h1>Structure-Theoretic Resolution of the Congruent Number Problem</h1>
+  <p>This is an open publication by Mizuho Watanabe.</p>
+  <p>
+    📄 <a href="main.pdf" target="_blank">Click here to read the paper (PDF)</a>
+  </p>
+  <footer>
+    <p>Hosted via GitHub Pages</p>
+  </footer>
+</body>
+</html>
